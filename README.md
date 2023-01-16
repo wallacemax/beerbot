@@ -1,0 +1,1 @@
+leftover simple JS code from a JSConf Nodebots event, idk if spark chips are still around
